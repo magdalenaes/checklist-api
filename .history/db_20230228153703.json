@@ -9,9 +9,6 @@
       "edition": "02",
       "szbi": "Wewnętrzny",
       "valid_date": "2018-04-06",
-      "date": "2023-02-27",
-      "shift": "8-16",
-      "inspector": "Jan Kowalski",
       "workshops": [
         {
           "workshop_id": "305",
@@ -144,10 +141,7 @@
       "index": "F216",
       "edition": "02",
       "szbi": "Wewnętrzny",
-      "valid_date": "2018-04-08",
-      "date": "2023-02-28",
-      "shift": "16-23",
-      "inspector": "Tomasz Nowak",
+      "valid_date": "2018-04-06",
       "workshops": [
         {
           "workshop_id": "305",
