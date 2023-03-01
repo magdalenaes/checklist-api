@@ -1,0 +1,243 @@
+
+{
+    "workshop_id": "305",
+    "workshop": "Hala Pras",
+    "controls": [
+        {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 2",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 3",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 4",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 5",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 6",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 7",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+              "workshop_id": "310",
+              "workshop": "Mycie obudów",
+              "controls": [
+                {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+              "workshop_id": "355",
+              "workshop": "Malowanie proszkowe",
+              "controls": [
+                {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 2",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 3",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 4",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 5",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+              "workshop_id": "360",
+              "workshop": "Zespoły obudów",
+              "controls": [
+                {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+              "workshop_id": "365",
+              "workshop": "Podzespół króćca",
+              "controls": [
+                {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                },
+                {
+                  "control_title": "Kontrola 2",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+              "workshop_id": "361",
+              "workshop": "Klejenie stopek",
+              "controls": [
+                {
+                  "control_title": "Kontrola 1",
+                  "control_result": "",
+                  "control_comment": ""
+                }
+              ]
+            },
+            {
+                "id": 1,
+                "name": "Checklista kontroli inspekcyjnych",
+                "company": "Tkomp",
+                "company_logo": "https://tkomp.pl/wp-content/uploads/2019/04/logo_tkomp.png",
+                "index": "F216",
+                "edition": "02",
+                "szbi": "Wewnętrzny",
+                "valid_date": "2018-04-08",
+                "date": "2023-02-28",
+                "shift": "16-23",
+                "inspector": "Tomasz Nowak",
+                "workshops": [
+                  {
+                    "workshop_id": "305",
+                    "workshop": "Hala Pras",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 2",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 3",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 4",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 5",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  },
+                  {
+                    "workshop_id": "310",
+                    "workshop": "Mycie obudów",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  },
+                  {
+                    "workshop_id": "355",
+                    "workshop": "Malowanie proszkowe",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 2",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 3",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 4",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  },
+                  {
+                    "workshop_id": "360",
+                    "workshop": "Zespoły obudów",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  },
+                  {
+                    "workshop_id": "365",
+                    "workshop": "Podzespół króćca",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      },
+                      {
+                        "control_title": "Kontrola 2",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  },
+                  {
+                    "workshop_id": "361",
+                    "workshop": "Klejenie stopek",
+                    "controls": [
+                      {
+                        "control_title": "Kontrola 1",
+                        "control_result": "",
+                        "control_comment": ""
+                      }
+                    ]
+                  }
+                ]
+              }
